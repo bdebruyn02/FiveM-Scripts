@@ -6,7 +6,7 @@
 - **Discord:** LordTiger#1913
 
 ### Social Links:
-- [Discord:](https://discord.gg/YtXSfd87fF)
+- [Discord:](https://discord.gg/6qkYQ94dBQ)
 - [Twitch:](https://www.twitch.tv/mlordtiger)
 - [Twitter:](https://twitter.com/MLordTiger)
 
