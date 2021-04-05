@@ -1,4 +1,5 @@
 fx_version 'bodacious'
+game 'gta5'
 author 'Modified by LordTiger'
 description 'FBI Job'
 version '1.2'
